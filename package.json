@@ -1,0 +1,9 @@
+{
+    "name": "@oat-sa/prettier-config",
+    "version": "0.1.0",
+    "description": "TAO shared prettier configuration",
+    "main": "index.json",
+    "repository": "git@github.com:oat-sa/prettier-config.git",
+    "author": "Ricardo Proenca <ricardo@taotesting.com>",
+    "license": "GPL-2.0"
+  }
