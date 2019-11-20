@@ -9,6 +9,5 @@
     "trailingComma": "none",
     "bracketSpacing": true,
     "arrowParens": "avoid",
-    "parser":"babel",
     "endOfLine": "lf"
 }
