@@ -10,7 +10,6 @@
     "bracketSpacing": true,
     "arrowParens": "avoid",
     "endOfLine": "lf",
-    "svelteSortOrder": "options-scripts-styles-markup",
     "bracketSameLine": true,
-    "svelteBracketNewLine": false
+    "svelteSortOrder": "options-scripts-styles-markup"
 }
