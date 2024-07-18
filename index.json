@@ -11,5 +11,6 @@
     "arrowParens": "avoid",
     "endOfLine": "lf",
     "svelteSortOrder": "options-scripts-styles-markup",
+    "bracketSameLine": true,
     "svelteBracketNewLine": false
 }
