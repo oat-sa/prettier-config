@@ -1,21 +1,27 @@
 {
-    "name": "@oat-sa/prettier-config",
-    "version": "0.1.1",
-    "displayName": "TAO Prettier Config",
-    "description": "TAO shared prettier configuration",
-    "publishConfig": {
-      "access": "public"
-    },
-    "main": "index.json",
-    "license": "GPL-2.0",
-    "keywords": [
-      "prettier",
-      "prettier-config"
-    ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/oat-sa/prettier-config.git"
-    },
-    "author": "Ricardo Proenca <ricardo@taotesting.com>",
-    "homepage": "https://github.com/oat-sa/prettier-config.git"    
+  "name": "@oat-sa/prettier-config",
+  "version": "0.1.2",
+  "displayName": "TAO Prettier Config",
+  "description": "TAO shared prettier configuration",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.json",
+  "license": "GPL-2.0",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oat-sa/prettier-config.git"
+  },
+  "author": {
+    "name": "Ricardo Proenca",
+    "email": "ricardo@taotesting.com"
+  },
+  "homepage": "https://github.com/oat-sa/prettier-config.git",
+  "bugs": {
+    "url": "https://github.com/oat-sa/prettier-config/issues"
   }
+}
