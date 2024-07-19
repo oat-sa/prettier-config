@@ -1,6 +1,6 @@
 {
   "name": "@oat-sa/prettier-config",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "displayName": "TAO Prettier Config",
   "description": "TAO shared prettier configuration",
   "publishConfig": {
