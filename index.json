@@ -17,7 +17,7 @@
         "options": { 
           "plugins": ["prettier-plugin-svelte"],
           "pluginSearchDirs": ["."], 
-          "svelteSortOrder": "options-styles-markup-scripts" 
+          "svelteSortOrder": "options-scripts-styles-markup" 
           } 
         }
   ]
