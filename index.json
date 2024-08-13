@@ -10,15 +10,16 @@
   "bracketSpacing": true,
   "arrowParens": "avoid",
   "endOfLine": "lf",
-  "bracketSameLine": true,   
+  "bracketSameLine": true,
   "overrides": [
-      { 
-        "files": "*.svelte", 
-        "options": { 
-          "plugins": ["prettier-plugin-svelte"],
-          "pluginSearchDirs": ["."], 
-          "svelteSortOrder": "options-scripts-styles-markup" 
-          } 
-        }
+    {
+      "files": "*.svelte",
+      "options": {
+        "plugins": ["prettier-plugin-svelte"],
+        "pluginSearchDirs": ["."],
+        "parser": "svelte",
+        "svelteSortOrder": "options-scripts-styles-markup"
+      }
+    }
   ]
 }
