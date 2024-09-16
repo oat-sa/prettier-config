@@ -8,7 +8,7 @@
 [warn] Ignored unknown option { pluginSearchDirs: ["."] }
 ```
 
-> Note that if you are using Prettier 2, please use version 1 of this prettier-config package.
+> Note that if you are using Prettier 2, please use version 1 of this prettier-config package. Added a note in the README about this.
 
 ## _1.0.2_
 
